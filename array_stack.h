@@ -1,4 +1,4 @@
-/// Copyright [2019] <Andre Luiz Souza dos Santos>
+/// Copyright [2020] <Andre Luiz Souza dos Santos>
 #ifndef STRUCTURES_ARRAY_STACK_H
 #define STRUCTURES_ARRAY_STACK_H
 
