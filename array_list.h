@@ -1,4 +1,4 @@
-//! Copyright [2020] <Autor>
+//! Copyright [2020] <Andre Luiz Souza dos Santos>
 
 #ifndef STRUCTURES_ARRAY_LIST_H
 #define STRUCTURES_ARRAY_LIST_H
