@@ -1,4 +1,4 @@
-// Copyright [2018] <Andre Luiz Souza Santos>
+// Copyright [2020] <Andre Luiz Souza Santos>
 #ifndef STRUCTURES_ARRAY_QUEUE_H
 #define STRUCTURES_ARRAY_QUEUE_H
 
